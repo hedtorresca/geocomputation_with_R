@@ -1,0 +1,101 @@
+---
+title: "GEOCOMPUTACIÓN CON R"
+institute: "Simposio Internacional de Estadística"
+date: "16 de julio de 2019"
+output:
+  xaringan::moon_reader:
+    css: ["default"  , "fc-fonts"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+  revealjs::revealjs_presentation:
+    transition: zoom
+---
+
+
+background-image: url(prueba/Diapositiva1.PNG)
+background-position: center
+background-size: contain
+
+
+---
+background-image: url(prueba/Diapositiva2.PNG)
+background-position: center
+background-size: contain
+class: left, middle
+<img src="https://media.giphy.com/media/mf8UbIDew7e8g/giphy.gif
+" alt="" style="width:290px;"/>
+
+---
+background-image: url(prueba/Diapositiva3.PNG)
+background-position: center
+background-size: contain
+
+---
+background-image: url(prueba/Diapositiva4.PNG)
+background-position: center
+background-size: contain
+
+---
+background-image: url(prueba/Diapositiva5.PNG)
+background-position: center
+background-size: contain
+---
+background-image: url(prueba/Diapositiva6.PNG)
+background-position: center
+background-size: contain
+
+---
+background-image: url(prueba/Diapositiva7.PNG)
+background-position: center
+background-size: contain
+
+class: right, middle
+<img src="https://media.giphy.com/media/KtO0lBfNVqcZG/giphy.gif" alt="" style="width:370px; height:320px"/>
+
+---
+background-image: url(prueba/Diapositiva8.PNG)
+background-position: center
+background-size: contain
+
+---
+
+background-image: url(prueba/Diapositiva9.PNG)
+background-position: center
+background-size: contain
+class: inverse
+
+
+# Geocomputación en R
+
+### Con una amplia gama de paquetes, R también admite estadísticas geoespaciales avanzadas, modelado y visualización. Se conocen los paquetes en el contexto geográfico como rgdal, geos, spData, PROJ , sf…
+
+
+
+---
+background-image: url(prueba/Diapositiva11.PNG)
+background-position: center
+background-size: contain
+class: inverse
+
+## Integración Esri - Leaflet -R
+
+<iframe src="https://hedtorresca.shinyapps.io/MovilidadDRE/" width="90%" height="80%" align="right"></iframe>
+
+---
+
+
+
+
+---
+
+class: center, middle
+
+# Thanks!
+
+Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).
+
+The chakra comes from [remark.js](https://remarkjs.com) and [R Markdown](https://rmarkdown.rstudio.com).
